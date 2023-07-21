@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533575780014",
+    "project_id": "kids-learningapp-227d4",
+    "storage_bucket": "kids-learningapp-227d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533575780014:android:27ba8da4d09fe061d64f3f",
+        "android_client_info": {
+          "package_name": "ideanity.oceans.kidslearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533575780014-1akp6pav75h6epdr7b6ngt6bjibohl3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbs3wSkbLUOoW6Qxu1xZkgTIunl_DwrBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533575780014-1akp6pav75h6epdr7b6ngt6bjibohl3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
